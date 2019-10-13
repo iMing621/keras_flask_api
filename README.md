@@ -46,7 +46,7 @@
 
 以下內容若發現任何問題
 
-建議參考 [Reference](Refernece.md)
+建議參考 [Reference](reference.md)
 
 ### 1. 下載程式
 下載相關程式到專案目錄下
